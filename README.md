@@ -8,7 +8,7 @@ The PHP file called foldrHandler.php will interpret HTTP GET requests containing
 It is strongly reccomended that you change this private key!
 
 This code was originally used for connecting to a server to request resources over HTTPS.
-Unfortuantly the server was running a unsigned certificate therefor this was used to bypass the issue.
+Unfortuantly the server was running a unsigned certificate therefore this was used to bypass the issue.
 
 You can make this request from an iOS application (using xcode):
 
