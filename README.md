@@ -3,6 +3,8 @@ Flinks-Redirect-Foldr
 
 PHP Foldr Private Flink Redirecter
 
+Written by Lewis Smallwood in April 2014 - http://www.lewistech.co.uk/
+
 The PHP file called foldrHandler.php will interpret HTTP GET requests containing the users requested flink, username to access the file and their password encrypted using AES with a private key.
 
 It is strongly reccomended that you change this private key!
