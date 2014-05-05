@@ -49,7 +49,7 @@ You can make this request from an iOS application (using xcode):
     
     }
 
-I would like to point out that this code is still used for testing purposes to request resources within a school enviroment and could change depending on Foldr Encryptions. But for a "stumble in the dark" I hope this may solve some challenges other developers may be facing with implmentation within School's or Businesses :)
+I would like to point out that this code is still used for testing purposes to request resources within a school enviroment and could change depending on Foldr Encryptions. But for a "stumble in the dark" I hope this may solve some challenges other developers may be facing with implementation within School's or Businesses :)
 
 Finally, Foldr is the respective property of Minnow IT (2014). I would highly suggest crediting them whenever this is used.
 
